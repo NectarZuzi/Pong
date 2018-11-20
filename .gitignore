@@ -1,1 +1,16 @@
 **/Debug.win32/*
+**/.vs/*
+cocos2d/cocos/2d/libcocos2d.vcxproj
+cocos2d/cocos/2d/libcocos2d.vcxproj
+cocos2d/cocos/2d/libcocos2d.vcxproj
+cocos2d/cocos/2d/libcocos2d.vcxproj
+cocos2d/cocos/2d/libcocos2d.vcxproj.user
+cocos2d/cocos/2d/libcocos2d.vcxproj
+cocos2d/cocos/editor-support/spine/proj.win32/libSpine.vcxproj
+cocos2d/cocos/editor-support/spine/proj.win32/libSpine.vcxproj.user
+cocos2d/external/recast/proj.win32/librecast.vcxproj.user
+proj.win32/.vs/Pong/v15/.suo
+proj.win32/Pong.vcxproj
+cocos2d/external/recast/proj.win32/librecast.vcxproj
+cocos2d/cocos/editor-support/spine/proj.win32/libSpine.vcxproj
+cocos2d/cocos/2d/libcocos2d.vcxproj
